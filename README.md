@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gasparyanvazgen" alt="gasparyanvazgen" /></a> </p>
 
-- 🔭 I’m currently working on [Data Structures and Algorithms Visualizer](https://github.com/gasparyanvazgen/data-structures-algorithms-visualizer)
+- 🔭 I’m currently working on [Jina Web Chat Application](https://github.com/gasparyanvazgen/jina-web-chat)
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
-- 💬 Ask me about **python and java**
+- 💬 Ask me about **Python and Java**
 
 - 📫 How to reach me **gvazgen@outlook.com**
 
