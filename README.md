@@ -20,6 +20,8 @@ My approach: understand the problem, keep the solution focused, communicate clea
 
 - 🎓 B.S. in Informatics and Mathematics — Ijevan Branch of YSU (2026 – Present)
 - 📍 Armenia
+- 🔭 Currently building **VazgenDev** — my full-stack developer portfolio and case-study site
+- 🟢 Open to **freelance work** and **remote part-time roles**
 
 ### 🛠️ Tech stack
 
@@ -32,7 +34,6 @@ My approach: understand the problem, keep the solution focused, communicate clea
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
 **Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
@@ -42,4 +43,4 @@ My approach: understand the problem, keep the solution focused, communicate clea
 
 ### 📫 Let's connect
 
-I'm open to freelance and full-stack opportunities. Reach out via [email](mailto:infogasparian@gmail.com), [LinkedIn](https://linkedin.com/in/vazgen-gasparyan), or check out what I'm building at [gasparyanvazgen.github.io](https://gasparyanvazgen.github.io).
+I'm open to freelance work and remote part-time roles. Reach out via [email](mailto:infogasparian@gmail.com), [LinkedIn](https://linkedin.com/in/vazgen-gasparyan), or check out what I'm building at [gasparyanvazgen.github.io](https://gasparyanvazgen.github.io).
