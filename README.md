@@ -20,7 +20,7 @@ My approach: understand the problem, keep the solution focused, communicate clea
 
 - 🎓 B.S. in Informatics and Mathematics — Ijevan Branch of YSU (2026 – Present)
 - 📍 Armenia
-- 🔭 Currently building **VazgenDev** — my full-stack developer portfolio and case-study site
+- 🔭 Currently building [**Tally**](https://github.com/gasparyanvazgen/tally) — a time-tracking and invoicing app for freelancers
 - 🟢 Open to **freelance work** and **remote part-time roles**
 
 ### 🛠️ Tech stack
